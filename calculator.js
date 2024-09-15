@@ -187,8 +187,8 @@ function displayChart(loanBalanceWithoutOffset, loanBalanceWithOffset, loanTerm)
                 {
                     label: 'Loan Balance',
                     data: yearlyBalanceWithOffset,
-                    backgroundColor: 'rgba(60,190,216, 0.2)',
-                    borderColor: 'rgba(60,190,216, 1)',
+                    backgroundColor: 'rgba(60,190,216,0.2)',
+                    borderColor: 'rgba(60,190,216,1)',
                     fill: true,
                     lineTension: .4,
                     borderWidth: 2,
