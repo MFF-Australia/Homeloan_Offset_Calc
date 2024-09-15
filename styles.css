@@ -20,7 +20,7 @@ h4 {
 
 button {
     padding: 10px 20px;
-    background-color: #03a678;
+    background-color: #3cbcdb;
     color: white;
     border: none;
     border-radius: 4px;
@@ -28,7 +28,7 @@ button {
 }
 
 button:hover {
-    background-color: #35b793;
+    background-color: #3cbed8;
 }
 
 /* Container Styles */
@@ -113,7 +113,7 @@ select {
 }
 
 .result-item {
-    color: #35b793;
+    color: #3cbed8;
 }
 
 .result-item2 span {
@@ -215,6 +215,6 @@ canvas {
 }
 
 .logo {
-    width: 200px;
+    width: 250px;
     height: auto;
 }
